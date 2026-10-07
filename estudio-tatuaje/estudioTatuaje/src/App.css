@@ -53,3 +53,17 @@ button{background:var(--accent);color:var(--text);padding:0.6rem 1rem;border:0;b
 	.image-wrap{padding-top:70%}
 }
 
+/* Header styles */
+.site-header{background:linear-gradient(180deg, rgba(245,183,0,0.06), transparent);border-bottom:1px solid rgba(47,107,47,0.06)}
+.site-header-inner{display:flex;align-items:center;justify-content:space-between;padding:1rem 1rem}
+.site-title{margin:0;font-size:1.25rem;color:var(--accent-2)}
+.site-nav{list-style:none;display:flex;gap:1rem;margin:0;padding:0}
+.site-nav a{color:var(--muted);text-decoration:none;padding:0.35rem 0.5rem;border-radius:6px}
+.site-nav a:hover{background:rgba(245,183,0,0.06);color:var(--accent-2)}
+.site-nav a.active{background:rgba(47,107,47,0.06);color:var(--accent-2)}
+
+@media (max-width:640px){
+	.site-header-inner{flex-direction:column;gap:0.6rem}
+	.site-nav{flex-wrap:wrap;justify-content:center}
+}
+
