@@ -1,5 +1,5 @@
 
-import ImageCard from '../components/ImageCard.jsx'
+import ImageCard from './ImageCard.jsx'
 import mujer from './mujer.png'
 import cuervo from './cuervo.png'
 

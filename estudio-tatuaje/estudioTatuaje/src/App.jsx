@@ -1,7 +1,7 @@
 
 import './App.css'
-import Hero from './components/Hero.jsx'
 import Header from './components/Header.jsx'
+import Footer from './components/footer.jsx'
 
 import { Outlet } from 'react-router-dom' 
 
@@ -9,9 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Hero />
-      
-      
+      <Footer />
       <main className="container">
         <Outlet />
       </main>
