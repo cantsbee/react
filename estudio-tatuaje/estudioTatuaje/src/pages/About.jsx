@@ -23,7 +23,7 @@ export default function About (){
                     </ul>
                 </div>
                 <div className="about-image">
-                    <img src="/src/components/" alt="artista trabajando" />
+                    <img src="/images/mujer.png" alt="artista trabajando" />
                 </div>
             </div>
         </section>

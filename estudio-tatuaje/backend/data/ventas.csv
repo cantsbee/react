@@ -1,0 +1,51 @@
+id,cliente_id,cita_id,concept,amount,date,paymentMethod
+1,14,8,Diseño personalizado,60,2025-06-08,tarjeta
+2,27,15,Sesión de retoque,80,2025-09-15,transferencia
+3,40,22,Consulta de diseño,120,2025-12-22,efectivo
+4,13,29,Tamaño pequeño,150,2025-03-02,tarjeta
+5,26,36,Sesión extendida,200,2025-06-09,transferencia
+6,39,43,Sesión de tatuaje,250,2025-09-16,efectivo
+7,12,50,Diseño personalizado,45,2025-12-23,tarjeta
+8,25,57,Sesión de retoque,60,2025-03-03,transferencia
+9,38,64,Consulta de diseño,80,2025-06-10,efectivo
+10,11,1,Tamaño pequeño,120,2025-09-17,tarjeta
+11,24,8,Sesión extendida,150,2025-12-24,transferencia
+12,37,15,Sesión de tatuaje,200,2025-03-04,efectivo
+13,10,22,Diseño personalizado,250,2025-06-11,tarjeta
+14,23,29,Sesión de retoque,45,2025-09-18,transferencia
+15,36,36,Consulta de diseño,60,2025-12-25,efectivo
+16,9,43,Tamaño pequeño,80,2025-03-05,tarjeta
+17,22,50,Sesión extendida,120,2025-06-12,transferencia
+18,35,57,Sesión de tatuaje,150,2025-09-19,efectivo
+19,8,64,Diseño personalizado,200,2025-12-26,tarjeta
+20,21,1,Sesión de retoque,250,2025-03-06,transferencia
+21,34,8,Consulta de diseño,45,2025-06-13,efectivo
+22,7,15,Tamaño pequeño,60,2025-09-20,tarjeta
+23,20,22,Sesión extendida,80,2025-12-27,transferencia
+24,33,29,Sesión de tatuaje,120,2025-03-07,efectivo
+25,6,36,Diseño personalizado,150,2025-06-14,tarjeta
+26,19,43,Sesión de retoque,200,2025-09-21,transferencia
+27,32,50,Consulta de diseño,250,2025-12-01,efectivo
+28,5,57,Tamaño pequeño,45,2025-03-08,tarjeta
+29,18,64,Sesión extendida,60,2025-06-15,transferencia
+30,31,1,Sesión de tatuaje,80,2025-09-22,efectivo
+31,4,8,Diseño personalizado,120,2025-12-02,tarjeta
+32,17,15,Sesión de retoque,150,2025-03-09,transferencia
+33,30,22,Consulta de diseño,200,2025-06-16,efectivo
+34,3,29,Tamaño pequeño,250,2025-09-23,tarjeta
+35,16,36,Sesión extendida,45,2025-12-03,transferencia
+36,29,,Sesión de tatuaje,60,2025-03-10,efectivo
+37,2,,Diseño personalizado,80,2025-06-17,tarjeta
+38,15,,Sesión de retoque,120,2025-09-24,transferencia
+39,28,,Consulta de diseño,150,2025-12-04,efectivo
+40,1,,Tamaño pequeño,200,2025-03-11,tarjeta
+41,14,,Sesión extendida,250,2025-06-18,transferencia
+42,27,,Sesión de tatuaje,45,2025-09-25,efectivo
+43,40,,Diseño personalizado,60,2025-12-05,tarjeta
+44,13,,Sesión de retoque,80,2025-03-12,transferencia
+45,26,,Consulta de diseño,120,2025-06-19,efectivo
+46,39,,Tamaño pequeño,150,2025-09-26,tarjeta
+47,12,,Sesión extendida,200,2025-12-06,transferencia
+48,25,,Sesión de tatuaje,250,2025-03-13,efectivo
+49,38,,Diseño personalizado,45,2025-06-20,tarjeta
+50,11,,Sesión de retoque,60,2025-09-27,transferencia

@@ -1,0 +1,71 @@
+id,cliente_id,date,idea,bodyPart,status
+1,12,2025-05-08,Cuervo en estilo grabado,espalda,confirmada
+2,23,2025-08-15,Franja de olas estilo japonés,hombro,cancelada
+3,34,2025-11-22,Retrato pequeño en línea fina,pierna,pendiente
+4,5,2025-02-02,Mariposa acuarela,costillas,confirmada
+5,16,2025-05-09,Rama de laurel minimalista,muñeca,cancelada
+6,27,2025-08-16,Reloj de bolsillo antiguo,clavícula,pendiente
+7,38,2025-11-23,Lobo geométrico,muslo,confirmada
+8,9,2025-02-03,Pluma con frase en cursiva,antebrazo,cancelada
+9,20,2025-05-10,Mandala en el hombro,espalda,pendiente
+10,31,2025-08-17,Rosa tradicional color,hombro,confirmada
+11,2,2025-11-24,Árbol genealógico estilizado,pierna,cancelada
+12,13,2025-02-04,Fases de la luna,costillas,pendiente
+13,24,2025-05-11,Carta de baraja,muñeca,confirmada
+14,35,2025-08-18,Dragonfly y flores,clavícula,cancelada
+15,6,2025-11-25,Compass con montañas,muslo,pendiente
+16,17,2025-02-05,Feather y cuentas,antebrazo,confirmada
+17,28,2025-05-12,Ancla vintage,espalda,cancelada
+18,39,2025-08-19,Rosa y calavera tradicional,hombro,pendiente
+19,10,2025-11-26,Bota de aviador con alas,pierna,confirmada
+20,21,2025-02-06,Corazón sagrado,costillas,cancelada
+21,32,2025-05-13,Águila en vuelo,muñeca,pendiente
+22,3,2025-08-20,Girasol realista con sombras suaves,clavícula,confirmada
+23,14,2025-11-27,Cuervo en estilo grabado,muslo,cancelada
+24,25,2025-02-07,Franja de olas estilo japonés,antebrazo,pendiente
+25,36,2025-05-14,Retrato pequeño en línea fina,espalda,confirmada
+26,7,2025-08-21,Mariposa acuarela,hombro,cancelada
+27,18,2025-11-01,Rama de laurel minimalista,pierna,pendiente
+28,29,2025-02-08,Reloj de bolsillo antiguo,costillas,confirmada
+29,40,2025-05-15,Lobo geométrico,muñeca,cancelada
+30,11,2025-08-22,Pluma con frase en cursiva,clavícula,pendiente
+31,22,2025-11-02,Mandala en el hombro,muslo,confirmada
+32,33,2025-02-09,Rosa tradicional color,antebrazo,cancelada
+33,4,2025-05-16,Árbol genealógico estilizado,espalda,pendiente
+34,15,2025-08-23,Fases de la luna,hombro,confirmada
+35,26,2025-11-03,Carta de baraja,pierna,cancelada
+36,37,2025-02-10,Dragonfly y flores,costillas,pendiente
+37,8,2025-05-17,Compass con montañas,muñeca,confirmada
+38,19,2025-08-24,Feather y cuentas,clavícula,cancelada
+39,30,2025-11-04,Ancla vintage,muslo,pendiente
+40,1,2025-02-11,Rosa y calavera tradicional,antebrazo,confirmada
+41,12,2025-05-18,Bota de aviador con alas,espalda,cancelada
+42,23,2025-08-25,Corazón sagrado,hombro,pendiente
+43,34,2025-11-05,Águila en vuelo,pierna,confirmada
+44,5,2025-02-12,Girasol realista con sombras suaves,costillas,cancelada
+45,16,2025-05-19,Cuervo en estilo grabado,muñeca,pendiente
+46,27,2025-08-26,Franja de olas estilo japonés,clavícula,confirmada
+47,38,2025-11-06,Retrato pequeño en línea fina,muslo,cancelada
+48,9,2025-02-13,Mariposa acuarela,antebrazo,pendiente
+49,20,2025-05-20,Rama de laurel minimalista,espalda,confirmada
+50,31,2025-08-27,Reloj de bolsillo antiguo,hombro,cancelada
+51,2,2025-11-07,Lobo geométrico,pierna,pendiente
+52,13,2025-02-14,Pluma con frase en cursiva,costillas,confirmada
+53,24,2025-05-21,Mandala en el hombro,muñeca,cancelada
+54,35,2025-08-01,Rosa tradicional color,clavícula,pendiente
+55,6,2025-11-08,Árbol genealógico estilizado,muslo,confirmada
+56,17,2025-02-15,Fases de la luna,antebrazo,cancelada
+57,28,2025-05-22,Carta de baraja,espalda,pendiente
+58,39,2025-08-02,Dragonfly y flores,hombro,confirmada
+59,10,2025-11-09,Compass con montañas,pierna,cancelada
+60,21,2025-02-16,Feather y cuentas,costillas,pendiente
+61,32,2025-05-23,Ancla vintage,muñeca,confirmada
+62,3,2025-08-03,Rosa y calavera tradicional,clavícula,cancelada
+63,14,2025-11-10,Bota de aviador con alas,muslo,pendiente
+64,25,2025-02-17,Corazón sagrado,antebrazo,confirmada
+65,36,2025-05-24,Águila en vuelo,espalda,cancelada
+66,7,2025-08-04,Girasol realista con sombras suaves,hombro,pendiente
+67,18,2025-11-11,Cuervo en estilo grabado,pierna,confirmada
+68,29,2025-02-18,Franja de olas estilo japonés,costillas,cancelada
+69,40,2025-05-25,Retrato pequeño en línea fina,muñeca,pendiente
+70,11,2025-08-05,Mariposa acuarela,clavícula,confirmada

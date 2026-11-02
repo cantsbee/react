@@ -5,13 +5,15 @@ export default function ShoppingList() {
         quantity: '',
         purchaseDate: ''
     })
+    const [Items, setItems] = useState([])
+
     function handleChange(event){
         setNewItem((n) => ({...n, [event.target.name]: event.target.value}))
     }
     function handleSubmit(event){
         event.preventDefault()
         // here you could add the item to a list; for now just clear the form
-        setNewItem({ name: '', quantity: '', purchaseDate: '' })
+        setItems((prevItems) => [...prevItems, newItem])
     }
     return (
         <div>
@@ -40,6 +42,14 @@ export default function ShoppingList() {
                     <button type="submit">Add Item</button>
 
                 </form>
+            </div>
+            <div>
+                {Items.map((item, index) =>
+                <div key={index}>
+                    <h4>Product: {item.name}</h4>
+                    <p>Quantity: {item.quantity}</p>
+                    <p>Purchase Date: {item.purchaseDate}</p>
+                </div>)}
             </div>
         </div>
          
