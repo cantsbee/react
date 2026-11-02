@@ -98,9 +98,6 @@ export default function Login() {
       <Hint>
         ¿No tienes cuenta? <Link to="/register">Regístrate aquí</Link>
       </Hint>
-      <Hint>
-        Demo admin: admin@estudio.com / admin123 · cliente: cliente@estudio.com / cliente123
-      </Hint>
     </Page>
   )
 }
